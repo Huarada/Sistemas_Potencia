@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651104370 source:c:\users\lucas\onedrive\Área de trabalho\numericos_trabalho_1\estrela_isolada\main.cpp
+	<iostream>
+	<complex>
+
+1651105189 source:c:\users\lucas\onedrive\Área de trabalho\estrela_isolado\main.cpp
+	<iostream>
+	<complex>
+
